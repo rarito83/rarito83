@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Rahmat Tri Susanto
 
-I’m enthusiastic Mobile Developer from Indonesia 
+I’m Enthusiast Mobile Developer from Indonesia 
 - 📫 How to reach me: rarito.jogja@gmail.com or linkedin.com/in/rahmat-tri-susanto-540234147
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rarito83&show_icons=true&theme=algolia)
