@@ -1,5 +1,8 @@
-### Hello there 👋, I'm Rahmat Tri Susanto
+### Hello there 👋 I'm Rahmat Tri Susanto
 
-- 🔭 I’m currently working on Mobile Developer
-- 📫 How to reach me: rarito.jogja@gmail.com and linkedin.com/in/rahmat-tri-susanto-540234147
+I’m enthusiastic Mobile Developer from Indonesia 
+- 📫 How to reach me: rarito.jogja@gmail.com or linkedin.com/in/rahmat-tri-susanto-540234147
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rarito83&show_icons=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarito83&layout=compact)](https://github.com/rarito83/github-readme-stats)
